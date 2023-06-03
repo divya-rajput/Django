@@ -9,3 +9,11 @@ This repo contains Django basic projects.
 - 5. Creating redirects and reverse function.
 - 6. Returning a HTML as a response.
 
+## Project-2: Monthly challenges using Templates
+### Key Concept used:
+- 1. Creating and rendering templates     
+- 2. Setting up global and static html files
+- 3. Setting up global and static css files
+- 5. Using Django Template Language to render the templates
+- 6. Template inheritence
+
