@@ -17,3 +17,7 @@ This repo contains Django basic projects.
 - 5. Using Django Template Language to render the templates
 - 6. Template inheritence
 
+## Project-3: Building a Blog
+### Key Concept used:
+- 1. Concepts used in Project-1 and Project-2    
+- 2. Created a blog post using basic templates
